@@ -4,21 +4,21 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-graphql 0.14](https://github.com/simonw/datasette-graphql/releases/tag/0.14) - 2020-08-20
-
-[datasette-schema-versions 0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
-
 [github-to-sqlite 2.5](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.5) - 2020-08-18
 
-[datasette-publish-vercel 0.8](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8) - 2020-08-17
+[twitter-to-sqlite 0.21.3](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3) - 2020-07-23
 
-[datasette-cluster-map 0.12](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12) - 2020-08-16
+[dogsheep-photos 0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - 2020-05-25
 
-[datasette 0.48](https://github.com/simonw/datasette/releases/tag/0.48) - 2020-08-16
+[swarm-to-sqlite 0.3.1](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.1) - 2020-03-28
 
-[datasette-saved-queries 0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - 2020-08-15
+[healthkit-to-sqlite 0.5](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.5) - 2020-03-28
 
-[datasette-upload-csvs 0.5](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5) - 2020-08-15
+[pocket-to-sqlite 0.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2) - 2020-03-27
+
+[inaturalist-to-sqlite 0.2](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2) - 2020-03-24
+
+[hacker-news-to-sqlite 0.3.1](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.3.1) - 2020-03-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
