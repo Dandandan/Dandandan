@@ -4,21 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[github-to-sqlite 2.5](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.5) - 2020-08-18
 
-[twitter-to-sqlite 0.21.3](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3) - 2020-07-23
-
-[dogsheep-photos 0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - 2020-05-25
-
-[swarm-to-sqlite 0.3.1](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.1) - 2020-03-28
-
-[healthkit-to-sqlite 0.5](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.5) - 2020-03-28
-
-[pocket-to-sqlite 0.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2) - 2020-03-27
-
-[inaturalist-to-sqlite 0.2](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2) - 2020-03-24
-
-[hacker-news-to-sqlite 0.3.1](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.3.1) - 2020-03-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
