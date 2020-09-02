@@ -26,6 +26,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using the gcloud run services list command](https://github.com/simonw/til/blob/main/cloudrun/using-gcloud-run-services-list.md) - 2020-09-02
+
 [Looping over comma-separated values in Bash](https://github.com/simonw/til/blob/main/bash/loop-over-csv.md) - 2020-09-02
 
 [Start a server in a subprocess during a pytest session](https://github.com/simonw/til/blob/main/pytest/subprocess-server.md) - 2020-09-01
@@ -33,8 +35,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Minifying JavaScript with npx uglify-js](https://github.com/simonw/til/blob/main/javascript/minifying-uglify-npx.md) - 2020-08-30
 
 [Converting Airtable JSON for use with sqlite-utils using jq](https://github.com/simonw/til/blob/main/jq/reformatting-airtable-json.md) - 2020-08-29
-
-[Browsing your local git checkout of homebrew-core](https://github.com/simonw/til/blob/main/homebrew/homebrew-core-local-git-checkout.md) - 2020-08-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
