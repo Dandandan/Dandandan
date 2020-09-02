@@ -26,7 +26,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
-[Using the gcloud run services list command](https://github.com/simonw/til/blob/main/cloudrun/using-gcloud-run-services-list.md) - 2020-09-02
+[Using the gcloud run services list command](https://github.com/simonw/til/blob/main/cloudrun/gcloud-run-services-list.md) - 2020-09-02
 
 [Looping over comma-separated values in Bash](https://github.com/simonw/til/blob/main/bash/loop-over-csv.md) - 2020-09-02
 
