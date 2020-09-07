@@ -26,6 +26,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Display EC2 instance costs per month](https://github.com/simonw/til/blob/main/aws/instance-costs-per-month.md) - 2020-09-07
+
 [Very basic tsc usage](https://github.com/simonw/til/blob/main/typescript/basic-tsc.md) - 2020-09-06
 
 [Debugging a Click application using pdb](https://github.com/simonw/til/blob/main/python/debug-click-with-pdb.md) - 2020-09-03
@@ -33,8 +35,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using the gcloud run services list command](https://github.com/simonw/til/blob/main/cloudrun/gcloud-run-services-list.md) - 2020-09-02
 
 [Looping over comma-separated values in Bash](https://github.com/simonw/til/blob/main/bash/loop-over-csv.md) - 2020-09-02
-
-[Start a server in a subprocess during a pytest session](https://github.com/simonw/til/blob/main/pytest/subprocess-server.md) - 2020-09-01
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
