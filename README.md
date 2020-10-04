@@ -26,6 +26,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Manipulating query strings with URLSearchParams](https://github.com/simonw/til/blob/main/javascript/manipulating-query-params.md) - 2020-10-04
+
 [Using async/await in JavaScript in Selenium](https://github.com/simonw/til/blob/main/selenium/async-javascript-in-selenium.md) - 2020-10-02
 
 [Installing Selenium for Python on macOS with ChromeDriver](https://github.com/simonw/til/blob/main/selenium/selenium-python-macos.md) - 2020-10-02
@@ -33,8 +35,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Escaping strings in Bash using !:q](https://github.com/simonw/til/blob/main/bash/escaping-a-string.md) - 2020-10-01
 
 [Figuring out if a text value in SQLite is a valid integer or float](https://github.com/simonw/til/blob/main/sqlite/text-value-is-integer-or-float.md) - 2020-09-27
-
-[Understanding option names in Click](https://github.com/simonw/til/blob/main/python/click-option-names.md) - 2020-09-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
