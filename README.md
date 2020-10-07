@@ -26,6 +26,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running Datasette on DigitalOcean App Platform](https://github.com/simonw/til/blob/main/digitalocean/datasette-on-digitalocean-app-platform.md) - 2020-10-07
+
 [Manipulating query strings with URLSearchParams](https://github.com/simonw/til/blob/main/javascript/manipulating-query-params.md) - 2020-10-04
 
 [Using async/await in JavaScript in Selenium](https://github.com/simonw/til/blob/main/selenium/async-javascript-in-selenium.md) - 2020-10-02
@@ -33,8 +35,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Installing Selenium for Python on macOS with ChromeDriver](https://github.com/simonw/til/blob/main/selenium/selenium-python-macos.md) - 2020-10-02
 
 [Escaping strings in Bash using !:q](https://github.com/simonw/til/blob/main/bash/escaping-a-string.md) - 2020-10-01
-
-[Figuring out if a text value in SQLite is a valid integer or float](https://github.com/simonw/til/blob/main/sqlite/text-value-is-integer-or-float.md) - 2020-09-27
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
