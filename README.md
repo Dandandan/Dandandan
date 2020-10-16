@@ -26,6 +26,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Explicit file encodings using click.File](https://github.com/simonw/til/blob/main/python/click-file-encoding.md) - 2020-10-16
+
 [Upgrading Python Homebrew packages using pip](https://github.com/simonw/til/blob/main/homebrew/upgrading-python-homebrew-packages.md) - 2020-10-14
 
 [Searching for repositories by topic using the GitHub GraphQL API](https://github.com/simonw/til/blob/main/github/graphql-search-topics.md) - 2020-10-10
@@ -33,8 +35,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running Datasette on DigitalOcean App Platform](https://github.com/simonw/til/blob/main/digitalocean/datasette-on-digitalocean-app-platform.md) - 2020-10-07
 
 [Manipulating query strings with URLSearchParams](https://github.com/simonw/til/blob/main/javascript/manipulating-query-params.md) - 2020-10-04
-
-[Using async/await in JavaScript in Selenium](https://github.com/simonw/til/blob/main/selenium/async-javascript-in-selenium.md) - 2020-10-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
