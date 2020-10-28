@@ -26,6 +26,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Decorators with optional arguments](https://github.com/simonw/til/blob/main/python/decorators-with-optional-arguments.md) - 2020-10-28
+
 [Writing JavaScript that responds to media queries](https://github.com/simonw/til/blob/main/javascript/javascript-that-responds-to-media-queries.md) - 2020-10-22
 
 [Explicit file encodings using click.File](https://github.com/simonw/til/blob/main/python/click-file-encoding.md) - 2020-10-16
@@ -33,8 +35,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Upgrading Python Homebrew packages using pip](https://github.com/simonw/til/blob/main/homebrew/upgrading-python-homebrew-packages.md) - 2020-10-14
 
 [Searching for repositories by topic using the GitHub GraphQL API](https://github.com/simonw/til/blob/main/github/graphql-search-topics.md) - 2020-10-10
-
-[Running Datasette on DigitalOcean App Platform](https://github.com/simonw/til/blob/main/digitalocean/datasette-on-digitalocean-app-platform.md) - 2020-10-07
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
